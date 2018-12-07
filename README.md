@@ -1,4 +1,4 @@
-# PLAT-ENG-CHALLENGE
+# Software Engineer Challenge
 1. Coding task:
 
     In object-oriented and functional programming, an immutable object is an object whose state cannot be modified after it is created. This is in contrast to a mutable object which can be modified after it is created. 
